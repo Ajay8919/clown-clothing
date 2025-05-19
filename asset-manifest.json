@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clown-clothing/static/css/main.70c65c19.css",
+    "main.js": "/clown-clothing/static/js/main.6d89c400.js",
+    "static/js/787.26dfaaf8.chunk.js": "/clown-clothing/static/js/787.26dfaaf8.chunk.js",
+    "static/media/shopping-bag.svg": "/clown-clothing/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/clown-clothing/static/media/crown.207ae289b221bfaca0108507f9bb2f85.svg",
+    "index.html": "/clown-clothing/index.html",
+    "main.70c65c19.css.map": "/clown-clothing/static/css/main.70c65c19.css.map",
+    "main.6d89c400.js.map": "/clown-clothing/static/js/main.6d89c400.js.map",
+    "787.26dfaaf8.chunk.js.map": "/clown-clothing/static/js/787.26dfaaf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c65c19.css",
+    "static/js/main.6d89c400.js"
+  ]
+}
